@@ -1,6 +1,6 @@
-  Sou a _Suellen_, este arquivo foi um teste para **descobrir** se é possivel adicionar arquivo 
+  Sou a Suellen, este arquivo foi um teste para descobrir se é possivel adicionar arquivo 
 em um repositório público sem ser colaboradora. (Obs: Já sabia que não era, possível, mas aqui esta na prática)
 
-  Ao tentar adicionar, o gitHub sugere a criação do **_fork_** (Clonagem do repositório, sendo possível fazer alteração sem modificar o projeto principal)
-Para realizar alterações no principar, criamos então o _pull requests_.
-O autor recebe a notificação e aceita ou recusa a alteração.
+  Ao tentar adicionar, o gitHub sugere a criação do fork (Clonagem do repositório, sendo possível fazer alteração sem modificar o projeto principal)
+Para realizar alterações no principar, criamos então o pull requests.
+  O autor recebe a notificação e aceita ou recusa a alteração.
